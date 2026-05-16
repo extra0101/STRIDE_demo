@@ -1,4 +1,4 @@
-# AT/AN Circular Economy Visualization
+# Circular Economy Visualization
 
 Interactive visualization dashboard for analyzing circular economy design strategies in high-tech manufacturing (ASML supply chain).
 
